@@ -1,6 +1,6 @@
 const axios = require('axios');
 let url = 'https://discordservers.me/servers/tag/Nitro?&page=';
-let webhook = 'https://discordapp.com/api/webhooks/694715770180993184/OF27hqgeKYD2LTmliwOqvURkxXK0pUgGTSLj47wSgSLVr7hkmMDafX5iO50H8y1woy_B';
+let webhook = 'Your webhook here';
 let regex = /(discord.gg|discordapp.com\/invites)\/\w+/gi;
 
 (async function () {
